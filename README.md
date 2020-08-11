@@ -1,16 +1,15 @@
 ### Hi there 👋
+## I am Rohit Nawale
 
-<!--
-**rohitnawale/rohitnawale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on - blockchain
+- 🌱 I’m currently learning, Penetration Testing, of course javascript
+- 💬 Ask me about Python, Javascript, Blockchain, Quantum Computing
+- 📫 How to reach me: email: [Gmail](rohitnawale14@gmail.com),  [Linkedin](www.linkedin.com/in/rohit-nawale-754567151)
+- ⚡ Areas of Interest: Infosec, Full Stack, Blockchain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Language and Tools:
+- Software Languages:       Python, Javascript, Typescript, C++, Core Java, HTML/CSS, JSON, JQuery
+- Software Technologies: Node.js, Git, Redux, Hooks, Jira, Selenium, Blockchain, Geth
+- Frameworks:                        Django, Flask, ExpressJS, React, Next.js, Jest, Ethereum (Solidity)
+- Database:                               Mysql, SQL+, MongoDB, Firebase
